@@ -1,0 +1,93 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.title-type1 {
+  font-size: 84px;
+}
+.title-type2 {
+  font-size: 72px;
+}
+.title-type3 {
+  font-size: 84px;
+}
+.title-type4 {
+  font-size: 60px;
+}
+.title-type5 {
+  font-size: 48px;
+}
+.title-type6 {
+  font-size: 36px;
+}
+
+.text-large {
+  font-size: 24px;
+}
+.text-medium {
+  font-size: 18px;
+}
+.text-small {
+  font-size: 13px;
+}
+
+button {
+  padding: 8px 16px;
+  color: #c8c8c8;
+  border-radius: 5px;
+}
+
+.primary {
+  background-color: hsl(0, 0%, 100%);
+  border: 3px solid #3cbbe8;
+  color: #3cbbe8;
+  font-weight: 800;
+}
+.info {
+  background-color: #fff;
+  border: 3px solid #6368d9;
+  color: #6368d9;
+  font-weight: 800;
+}
+.success {
+  background-color: #fff;
+  border: 3px solid #a1d175;
+  color: #a1d175;
+  font-weight: 800;
+}
+.warning {
+  background-color: #fff;
+  border: 3px solid #f9d5b3;
+  color: #f9d5b3;
+  font-weight: 800;
+}
+.danger {
+  background-color: #fff;
+  border: 3px solid #e64b8a;
+  color: #e64b8a;
+  font-weight: 800;
+}
+
+.plain {
+  background-color: #fff;
+}
+.large {
+  padding: 8px 20px;
+}
+
+.medium {
+  padding: 6px 16px;
+}
+
+.small {
+  padding: 4px 12px;
+}
